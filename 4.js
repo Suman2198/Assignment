@@ -1,0 +1,1 @@
+No they dont return the same thing because this has to do with the fact that semicolons are optional in Javascript. As a result when the line containing the return statement is encountered in foo2(), a semicolon is automatically inserted immediately after the return statement.
